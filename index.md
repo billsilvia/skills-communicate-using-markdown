@@ -9,3 +9,11 @@
 I'm not sure if this is the commit text or if the instructions skipped a step. The instructions skipped the requirement to click "Create Pull Request" twice instead of only once.
 
 ![Image Friend](https://static.wikia.nocookie.net/deltarune/images/3/3a/IMAGE_FRIEND.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
